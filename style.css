@@ -1,0 +1,55 @@
+    h1 {
+        color : darkblue;
+        text-align : center;
+        font-weight : bold;
+    }
+    
+    h2 {
+        color : darkgreen; 
+        text-align: center;
+        font-weight : bold;
+        border : 5px;
+        solid : dotted;
+    }
+
+    div {
+        background-color : teal;
+        width : 350px;
+        height : 100px;
+        margin : 30px;
+        padding : 20px;
+        font-family : Tahoma, verdana, arial, sans-serif;
+        font-size : 28px;
+        font-weight : bold;
+        border : 4px;
+        solid : blue;
+    }
+    
+    table {
+           border: 3px solid black;
+           border-collapse : collapse;
+           width : 50%;
+    }
+    
+    th, td {
+        border : 1px solid black;
+        padding : 4px;
+        text-align : center;
+        
+    }
+    th {
+        background-color : lightgray;
+    }
+    #top {
+        font-size : 36px;
+    }
+    #middle {
+        font-size : 24px;
+    }
+    #bottom {
+        font-size : 12px;
+    }
+    .name {
+        font-weight : bold;
+        font-color : white;
+    }
